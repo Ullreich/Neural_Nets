@@ -1,0 +1,15 @@
+Adaptive learning algorithms for gradient decent: (all available in TF)
+
+1) Momentum
+2) Adagrad
+3) Adadelta
+4) Adam
+5) RMSProp
+
+mini-batch gradient decent is good for finding good minima quickly with gradient decent and is not as noizy as stochastic gradient decent
+
+regularize NN as to not overfit:
+1) via dropout (each neuron is important, like an ensemble of multiple NN)
+2) via early  stopping (stop before loss on testing set grows)
+
+Long short term memory in RNN (I don't quite get RNNs)
